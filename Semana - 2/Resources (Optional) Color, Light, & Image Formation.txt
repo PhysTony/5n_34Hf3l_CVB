@@ -1,0 +1,27 @@
+Week 2 Resources: Color, Light, & Image Formation
+The following resources were selected to provide an overview of color, light, & image formation. 
+We would like to acknowledge the authors of the various web articles, videos, and papers for 
+their insightful discussions and analytics which helped formed the basis for some sections of 
+the lessons and modules.
+
+Title of Resource: Types of Light Sources
+Resource Type: Website article
+Description: The differences between point light sources, linear light sources, and area light 
+sources.
+http://ieslightlogic.org/choosing-the-right-light-source-point-linear-and-area/
+
+Title of Resource: Pinhole Camera – How it works
+Resource Type: Video (0:56)
+Description: A representation of how a pinhole camera works.
+https://www.youtube.com/watch?v=_TYwlDsdNcY&ab_channel=Udacity
+
+Title of Resource: Reinventing the Eye
+Resource Type: Website article
+Description: A brief overview of computer vision's goal to "reinvent the eye" so that computers 
+can see in the same way that humans can.
+https://medium.com/@verajaneseegers/computer-vision-the-reinvention-of-the-eye-1d741721bf5c
+
+Title of Resource: Color Theory
+Resource Type: Website
+Description: Background, definition, and overview of color theory.
+https://medium.com/@verajaneseegers/computer-vision-the-reinvention-of-the-eye-1d741721bf5c

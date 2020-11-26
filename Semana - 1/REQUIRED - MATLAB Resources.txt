@@ -1,0 +1,11 @@
+As a result of support from MathWorks, a  license to MATLAB is included for use with the course. You
+must have a computer capable of running MATLAB. Please check the system requirements:
+https://www.mathworks.com/support/sysreq.html. 
+
+Additionally, please note resources are available in the Course Resource section of the course.
+These resources are provided to assist you with the activities and assessments requiring you to use
+MATLAB.
+
+They include:
+1. Get MATLAB and
+2. Learning MATLAB

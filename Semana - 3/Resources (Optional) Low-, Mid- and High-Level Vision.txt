@@ -1,0 +1,44 @@
+Week 3 Resources: Low, Mid, and High-Level Vision
+The following resources were selected to provide an overview of low, mid, and high-level vision.
+We would like to acknowledge the authors of the various web articles, videos, and papers for
+their insightful discussions and analytics which helped formed the basis for some sections of the
+lessons and modules.
+
+Title of Resource: Three Levels
+Resource Type: Website
+Description: A description of Marr's three distinct levels of analysis of information-processing
+systems. David Marr (1982) has dubbed the three levels the computational, the algorithmic, and
+the implementational.
+https://www.albany.edu/~ron/papers/marrlevl.html
+
+Title of Resource: Top-down vs. Bottom-up Approaches
+Resource Type: Website
+Description: An analysis of the difference between the top-down and bottom-up approaches to
+developing neural networks in computer vision.
+http://www.hbcse.tifr.res.in/jrmcont/notespart1/node45.html
+
+Title of Resource: Low-Level Image Processing
+Resource Type: Website
+Description: The definition of low-level image processing.
+http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/MARBLE/low/low.htm
+
+Title of Resource: Image Matching Techniques
+Resource Type: PDF
+Description: Image matching using SIFT, SURF, BRIEF and ORB: performance comparison for distorted images.
+https://arxiv.org/abs/1710.02726
+
+Title of Resource: Mid-Level Vision
+Resource Type: Website
+Description: The definition of mid-level vision, as well as how it is different than low-level
+vision.
+http://bankslab.berkeley.edu/members/sergei/ALT/Sergei_MidLevelVision.htm
+
+Title of Resource: Image Segmentation
+Resource Type: Website
+Description: The definition of image segmentation and some of its applications.
+https://en.wikipedia.org/wiki/Image_segmentation
+
+Title of Resource: High-Level Vision
+Resource Type: Paper abstract
+Description: The definition of high-level vision.
+https://pubmed.ncbi.nlm.nih.gov/24552691/

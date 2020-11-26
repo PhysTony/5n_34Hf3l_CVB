@@ -1,0 +1,52 @@
+Week 1 Resources: Computer Vision Overview
+The following resources were selected to provide an overview of computer vision. We would like to
+acknowledge the authors of the various web articles, videos, and papers for their insightful
+discussions and analytics which helped form the basis for some sections of the lessons and
+modules.
+
+Title of Resource: Computer Vision
+Resource Type: Website
+Description: What is computer vision?  This provides a definition and brief overview of the field.
+https://en.wikipedia.org/wiki/Computer_vision
+
+Title of Resource: Digital Imaging/Image Acquisition
+Resource Type: Website
+Description: A definition of digital imaging, as well as its history.
+https://en.wikipedia.org/wiki/Digital_imaging
+
+Title of Resource: Computer Graphics
+Resource Type: Website
+Description: An overview and history of the computer graphics field.
+https://en.wikipedia.org/wiki/Computer_graphics
+
+Title of Resource: Machine Vision
+Resource Type: Website
+Description: An overview and definition of machine vision.
+https://en.wikipedia.org/wiki/Machine_vision
+
+Title of Resource: Photogrammetry
+Resource Type: Website
+Description: An overview of what photogrammetry is.
+https://en.wikipedia.org/wiki/Photogrammetry
+
+Title of Resource: A Brief History of Computer Vision
+Resource Type: Website article
+Description: An overview of the history of computer vision.
+https://www.epicsysinc.com/blog/machine-vision-history
+
+Title of Resource: DeepFace
+Resource Type: Website
+Description: A description of what DeepFace is.
+https://en.wikipedia.org/wiki/DeepFace
+
+Title of Resource: Applications
+Resource Type: Website
+Description: The most exciting applications of computer vision across industries, and
+possibilities for computer vision in the future.
+https://indatalabs.com/blog/applications-computer-vision-across-industries?cli_action=1542730411.237
+
+Title of Resource: Virtual and Augmented Reality
+Resource Type: Video (7:32)
+Description: An explanation of virtual and augmented reality. Includes a brief history and
+description of the differences. 
+https://www.youtube.com/watch?v=f9MwaH6oGEY

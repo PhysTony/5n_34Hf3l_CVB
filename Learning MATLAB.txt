@@ -1,0 +1,20 @@
+If you're new to MATLAB, we recommend starting with the MATLAB Onramp
+(https://la.mathworks.com/learn/tutorials/matlab-onramp.html), a free, interactive tutorial that
+takes about two hours to complete.  Below are some additional tutorials that will help you in the
+course.
+
+Getting Started with Images:
+Loading and Saving Images
+https://www.youtube.com/watch?v=m_zVQFzx2Ag&feature=youtu.be&ab_channel=MathWorksMOOC
+Working with Image Data
+https://www.youtube.com/watch?v=l_D88YYa8vc&feature=youtu.be&ab_channel=MathWorksMOOC
+Converting Image Data Types
+https://www.youtube.com/watch?v=TVqpf4OWGd0&feature=youtu.be&ab_channel=MathWorksMOOC
+Spatial Image Filtering
+https://www.youtube.com/watch?v=VRbzUmhaaxw&feature=youtu.be&ab_channel=MathWorksMOOC
+
+Functions:
+Writing Functions
+https://www.youtube.com/watch?v=9YO0X6vBOeo&feature=youtu.be&ab_channel=MathWorksMOOC
+Passing Functions as Inputs
+https://www.youtube.com/watch?v=Q0BjiytQXYA&feature=youtu.be

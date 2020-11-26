@@ -1,0 +1,12 @@
+% https://la.mathworks.com/help/images/convert-from-hsv-to-rgb-color-space.html
+%Lee una imagen RGB en el espacio de trabajo.
+RGB = imread('image1.jpg');
+
+
+% Conviértalo en el espacio de color HSV.
+HSV=rgb2hsv(RGB);
+% Divida la versión HSV de la imagen sintética en sus planos componentes: matiz, saturación y valor.
+[h s v] = imsplit(HSV);
+
+%Muestre los planos de color HSV individuales con la imagen original.
+montage({h, s, v, RGB}, 'BorderSize', 10);

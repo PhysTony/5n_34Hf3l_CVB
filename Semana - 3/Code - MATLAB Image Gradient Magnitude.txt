@@ -1,0 +1,11 @@
+% https://la.mathworks.com/help/images/ref/imgradient.html
+img=imread('cameraman.tif');
+[Gx,Gy]=imgradientxy(img,'sobel');
+%Uncomment the code below to visualize Gx and Gy 
+imshowpair(Gx,Gy,'montage')
+
+% devuelve la magnitud y la dirección del degradado desde los degradados direccionales y en las direcciones, respectivamente.GxGyxy
+[Gmag,Gdir] = imgradient(Gx,Gy)
+
+%Uncomment the code below to visualize Gmag and Gdir 
+imshowpair(Gmag,Gdir,'montage')

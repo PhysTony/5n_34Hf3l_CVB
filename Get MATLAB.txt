@@ -1,0 +1,12 @@
+As a result of support from MathWorks, a license to install MATLAB for the duration of the course is
+available. To get started:
+
+1. If you do not already have a MathWorks account, create one at MathWorks registration page
+(https://la.mathworks.com/login?uri=%2Fmwaccount%2F). Be sure to verify your email (check your 
+Junk/Spam folders) before moving to step 2.
+2. Download MATLAB using the course license(https://la.mathworks.com/licensecenter/classroom/comp-vision1).
+If you have difficulty, check that your computer meets the system requirements. Then post a
+description of your problem and question in the forums.
+
+Learn more about capabilities included in MATLAB - What is MATLAB?
+https://www.youtube.com/watch?v=hCkIhGMGJn8&feature=youtu.be
